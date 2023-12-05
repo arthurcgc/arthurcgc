@@ -10,9 +10,9 @@ I'm Arthur Coelho, a passionate software developer from Rio de Janeiro, Brazil.
 
 ## Skills
 
-- Programming Languages: Go, C++, Python, C
+- Programming Languages: ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square), ![C++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=36465D&logoColor=AAA&style=flat-square&link=), ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=), ![C](https://img.shields.io/static/v1?logo=c&label=&message=C&color=36465D&logoColor=AAA&style=flat-square&link=), ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 - Frameworks and Libraries: Any! I mean, we're developers, are we not?
-- Tools and Technologies: Kubernetes, Containers, NginX, gRPC, GKE
+- Tools and Technologies: ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square), ![Containers](https://img.shields.io/static/v1?logo=docker&label=&message=containers&color=36465D&logoColor=AAA&style=flat-square), ![NginX](https://img.shields.io/static/v1?logo=nginx&label=&message=nginx&color=36465D&logoColor=AAA&style=flat-square), ![gRPC](https://img.shields.io/static/v1?logo=google&label=&message=RPC&color=36465D&logoColor=AAA&style=flat-square), ![GKE](https://img.shields.io/static/v1?logo=google&label=&message=KE&color=36465D&logoColor=AAA&style=flat-square)
 
 ## Projects
 
