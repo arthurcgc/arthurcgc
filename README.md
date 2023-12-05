@@ -3,7 +3,7 @@
 I'm Arthur Coelho, a passionate software developer from Rio de Janeiro, Brazil.
 
 - 🔭 I’m currently working on [tsuru](https://github.com/tsuru/tsuru)
-- 💬 Ask me about: Go, Kubernetes, operators, design patterns, algorithms, chess, Counter Strike and much more!
+- 💬 Ask me about: software development, programming languages, frameworks, tools, and technologies.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arthurcgc/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm pretty good at Counter Strike
