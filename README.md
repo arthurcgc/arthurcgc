@@ -1,28 +1,30 @@
 # Hi there 👋
 
-I'm Arthur Coelho, a passionate software developer from Rio de Janeiro, Brazil.
+I'm Arthur Coelho, I write Go and break Kubernetes for a living.
 
-- 🔭 I’m currently working at [wellhub](https://github.com/gympass)
-- 💬 Ask me about: software development, programming languages, frameworks, tools, and technologies.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arthurcgc/)
-- 😄 Pronouns: He/Him
+Staff Software Engineer at [Wellhub](https://github.com/gympass) building PaaS infrastructure.
+
+## What I Do
+
+- 💬 Ask me about: Kubernetes operators, nginx/WAF at scale, PaaS architecture, Go microservices
 - ⚡ Fun fact: I'm pretty good at Counter Strike
 
-## Skills
+## Tech Stack
 
-- Programming Languages: ![go](https://img.shields.io/static/v1?logo=Go&label=&message=golang&color=lightblue&logoColor=light&style=flat-square), ![C++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=white&logoColor=blue&style=flat-square&link=), ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=navy&logoColor=yellow&style=flat-square&link=), ![C](https://img.shields.io/static/v1?logo=c&label=&message=C&color=purple&logoColor=white&style=flat-square&link=)
-- Frameworks and Libraries: Any! I mean, we're developers, are we not?
-- Tools and Technologies: ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=navy&logoColor=white&style=flat-square), ![Containers](https://img.shields.io/static/v1?logo=docker&label=&message=containers&color=blue&logoColor=AAA&style=flat-square), ![NginX](https://img.shields.io/static/v1?logo=nginx&label=&message=nginx&color=darkgreen&logoColor=white&style=flat-square), ![gRPC](https://img.shields.io/static/v1?logo=google&label=&message=RPC&color=white&logoColor=red&style=flat-square), ![GKE](https://img.shields.io/static/v1?logo=google&label=&message=KE&color=white&logoColor=red&style=flat-square)
+**Languages:** ![go](https://img.shields.io/static/v1?logo=Go&label=&message=Go&color=lightblue&logoColor=light&style=flat-square) ![C++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=C++&color=white&logoColor=blue&style=flat-square) ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=navy&logoColor=yellow&style=flat-square) ![C](https://img.shields.io/static/v1?logo=c&label=&message=C&color=purple&logoColor=white&style=flat-square)
 
-## Badges
-- [![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com/u/Arthur+Coelho)
+**Tools:** ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=navy&logoColor=white&style=flat-square) ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=blue&logoColor=AAA&style=flat-square) ![nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=Nginx&color=darkgreen&logoColor=white&style=flat-square) ![gRPC](https://img.shields.io/static/v1?logo=google&label=&message=gRPC&color=white&logoColor=red&style=flat-square) ![GKE](https://img.shields.io/static/v1?logo=google&label=&message=GKE&color=white&logoColor=red&style=flat-square)
 
 ## Projects
 
-- [Tsuru](https://github.com/tsuru/tsuru)
-- [WAF](https://github.com/arthurcgc/waf-operator)
-- [RpaaS](https://github.com/arthurcgc/rpaas-operator)
+- [Tsuru](https://github.com/tsuru/tsuru) - Open-source PaaS (maintainer)
+- [WAF Operator](https://github.com/arthurcgc/waf-operator) - K8s operator for managing WAF configs
+- [RPaaS Operator](https://github.com/arthurcgc/rpaas-operator) - Reverse proxy as a service on Kubernetes
 
-## Connect with Me
+## Stats
+
+[![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com/u/Arthur+Coelho)
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/arthurcgc)
