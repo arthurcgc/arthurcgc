@@ -21,10 +21,10 @@ Staff Software Engineer at [Wellhub](https://github.com/gympass) building PaaS i
 - [WAF Operator](https://github.com/arthurcgc/waf-operator) - K8s operator for managing WAF configs
 - [RPaaS Operator](https://github.com/arthurcgc/rpaas-operator) - Reverse proxy as a service on Kubernetes
 
-## Stats
+## Achievements
 
-- [![SadServers Level](https://img.shields.io/badge/SadServers-Master-FF6D00?style=for-the-badge&labelColor=FFC400&logo=kubernetes&logoColor=1A237E&logoSize=auto)](https://sadservers.com/u/Arthur+Coelho)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/arthurcgc)
+[![SadServers](https://img.shields.io/badge/SadServers-Master-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E)](https://sadservers.com/u/Arthur+Coelho)
+[![HackerRank](https://img.shields.io/badge/Problem_Solving-5⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/arthurcgc)
   
 ## Connect
 
